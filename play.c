@@ -8,6 +8,8 @@
 #include <ctype.h>
 #include <string.h>
 #include "clue.h"
+#include "updatef.h"
+#include "showf.h"
 
 //Used to check if an element has been found in the array
 int find_index(int a[], int num_elements, int value)

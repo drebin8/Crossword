@@ -18,7 +18,7 @@ CFLAGS=-c -Wall -std=c99 -Wextra
 HEADERS=showf.h checkf.h updatef.h substring.h clue.h createArray.h readTF.h play.h
 
 # All of the object files to produce as intermediary work
-OBJECTS=main.o play.o readTF.o showf.o updatef.o
+OBJECTS=main.o play.o readTF.o showf.o updatef.o createArray.o
 
 
 # The final program to build

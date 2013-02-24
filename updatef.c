@@ -5,6 +5,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 #include "clue.h"
 
 /*Updates specified elements of the board*/
