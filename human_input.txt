@@ -1,0 +1,15 @@
+cw.txt
+1
+BAA
+2
+SOLID
+3
+WRONG
+3
+WIT
+4
+BUS
+5
+ALLOW
+6
+DOT

@@ -1,0 +1,13 @@
+18 15 12
+H 1 1 APPLE Red fruit
+H 4 3 RADIO Used to listen to music
+H 8 5 ELECTRICITY Provides power
+H 12 6 PAYDAY Day in which you receive money
+H 15 6 TURTLE Animal with a hard shell
+V 1 1 ASPARTAME Fake sugar
+V 1 3 PEAR Sweet fruit
+V 4 5 DONKEY Animal used for carrying stuff; is in Shrek
+V 4 11 VICTIM Someone who has been harmed
+V 8 8 CANDY Given to kids on Halloween
+V 6 14 MOTLEY The Crue
+V 12 6 PANTS Worn on your legs
